@@ -1,0 +1,16 @@
+D:\lixin\GitHub\HolleWord\DirtyWords\bin\Debug\DirtyWords.exe.config
+D:\lixin\GitHub\HolleWord\DirtyWords\bin\Debug\DirtyWords.exe
+D:\lixin\GitHub\HolleWord\DirtyWords\bin\Debug\DirtyWords.pdb
+D:\lixin\GitHub\HolleWord\DirtyWords\bin\Debug\KudyStudio.dll
+D:\lixin\GitHub\HolleWord\DirtyWords\obj\Debug\DirtyWords.csprojResolveAssemblyReference.cache
+D:\lixin\GitHub\HolleWord\DirtyWords\obj\Debug\DirtyWords.exe
+D:\lixin\GitHub\HolleWord\DirtyWords\obj\Debug\DirtyWords.pdb
+D:\lixin\GitHub\HolleWord\DirtyWords\bin\Debug\KudyStudio.xml
+D:\lixin\GitHub\DirtyWords\DirtyWords\bin\Debug\DirtyWords.exe.config
+D:\lixin\GitHub\DirtyWords\DirtyWords\bin\Debug\DirtyWords.exe
+D:\lixin\GitHub\DirtyWords\DirtyWords\bin\Debug\DirtyWords.pdb
+D:\lixin\GitHub\DirtyWords\DirtyWords\bin\Debug\KudyStudio.dll
+D:\lixin\GitHub\DirtyWords\DirtyWords\bin\Debug\KudyStudio.xml
+D:\lixin\GitHub\DirtyWords\DirtyWords\obj\Debug\DirtyWords.csprojResolveAssemblyReference.cache
+D:\lixin\GitHub\DirtyWords\DirtyWords\obj\Debug\DirtyWords.exe
+D:\lixin\GitHub\DirtyWords\DirtyWords\obj\Debug\DirtyWords.pdb
